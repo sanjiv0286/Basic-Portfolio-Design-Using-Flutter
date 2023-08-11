@@ -211,7 +211,7 @@ class Home extends StatelessWidget {
                         Padding(
                           padding: EdgeInsets.all(10.0),
                           child: Text(
-                            " I am a coder and currently I am a student in college. I am passionate about Programming , DSA and Development 👀😉.",
+                            "Hi I am Sanjiv and currently I am in fiveth semester in our college. I am passionate about doing Competitive Programming , DSA and Development 👀😉.",
                             style: TextStyle(
                                 color: Colors.black87,
                                 fontSize: 30,
@@ -562,7 +562,9 @@ class Home extends StatelessWidget {
 //               ),
 //               const SizedBox(height: 24),
 //               const Text(
-//                 'I am a coder and currently I am a student in college. I am passionate about Programming, DSA and Development.',
+//                 // 'I am a coder and currently I am a student in college. I am passionate about Programming, DSA and Development.',
+//                 "Hi I am Sanjiv and currently I am in fiveth semester in our college. I am passionate about doing Competitive Programming , DSA and Development 👀😉.",
+
 //                 style: TextStyle(
 //                   color: Colors.black87,
 //                   fontSize: 20,
