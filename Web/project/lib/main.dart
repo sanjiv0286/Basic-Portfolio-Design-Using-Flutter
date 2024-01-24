@@ -1,3 +1,4 @@
+// import 'package:device_preview/device_preview.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -6,6 +7,18 @@ void main() {
     debugShowCheckedModeBanner: false,
   ));
 }
+
+// void main() async {
+//   runApp(
+//     DevicePreview(
+//       enabled: true,
+//       builder: (context) => const MaterialApp(
+//         home: Home(),
+//         debugShowCheckedModeBanner: false,
+//       ),
+//     ),
+//   );
+// }
 
 class Home extends StatelessWidget {
   // const Home({super.key});
@@ -244,6 +257,7 @@ class Home extends StatelessWidget {
 
 // ********************************  Web ***************************************************
 
+// import 'package:device_preview/device_preview.dart';
 // import 'package:flutter/material.dart';
 
 // void main() {
@@ -252,6 +266,17 @@ class Home extends StatelessWidget {
 //     debugShowCheckedModeBanner: false,
 //   ));
 // }
+// // void main() async {
+// //   runApp(
+// //     DevicePreview(
+// //       enabled: true,
+// //       builder: (context) => const MaterialApp(
+// //         home: Home(),
+// //         debugShowCheckedModeBanner: false,
+// //       ),
+// //     ),
+// //   );
+// // }
 
 // class Home extends StatelessWidget {
 //   const Home({super.key});
@@ -496,6 +521,17 @@ class Home extends StatelessWidget {
 //     debugShowCheckedModeBanner: false,
 //   ));
 // }
+// // void main() async {
+// //   runApp(
+// //     DevicePreview(
+// //       enabled: true,
+// //       builder: (context) => const MaterialApp(
+// //         home: Home(),
+// //         debugShowCheckedModeBanner: false,
+// //       ),
+// //     ),
+// //   );
+// // }
 
 // class Home extends StatelessWidget {
 //   const Home({super.key});
